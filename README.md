@@ -1,2 +1,2 @@
 # AI Term Project
-## Pill image data classification
+## Clothes image data classification
